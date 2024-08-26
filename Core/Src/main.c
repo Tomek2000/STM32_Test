@@ -119,7 +119,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-
+printf("Starting...");
   /* USER CODE END Init */
 
   /* Configure the system clock */
